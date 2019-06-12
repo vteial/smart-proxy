@@ -1,0 +1,3 @@
+proxy:
+  icreader:
+    host_colon_port: localhost:8191

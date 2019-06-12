@@ -1,0 +1,25 @@
+
+info:
+  app:
+    name: Smart Proxy
+    description: Smart Proxy Service
+    version: 1.0.0
+
+server:
+  port: 9000
+  #sessionTimeout : 30
+  servlet:
+    context-path: /harmoney-ms
+
+spring:
+  application:
+    name: Smart Proxy
+
+  profiles:
+    active: prd
+
+proxy:
+  icreader:
+    request_mapping: icreader
+    host_colon_port: localhost:8191
+
