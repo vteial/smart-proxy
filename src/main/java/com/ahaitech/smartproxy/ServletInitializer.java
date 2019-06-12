@@ -1,4 +1,4 @@
-package com.ahaitech.icreader;
+package com.ahaitech.smartproxy;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

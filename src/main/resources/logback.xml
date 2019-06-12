@@ -23,7 +23,7 @@
     <logger name="org.springframework.web" level="DEBUG"/>
     -->
 
-    <logger name="com.ahaitech.icreader" level="INFO" additivity="false">
+    <logger name="com.ahaitech.smartproxy" level="INFO" additivity="false">
         <appender-ref ref="STDOUT"/>
     </logger>
 

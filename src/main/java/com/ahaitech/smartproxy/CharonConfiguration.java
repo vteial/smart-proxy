@@ -1,4 +1,4 @@
-package com.ahaitech.icreader;
+package com.ahaitech.smartproxy;
 
 import com.github.mkopylec.charon.configuration.CharonConfigurer;
 import org.springframework.context.EnvironmentAware;

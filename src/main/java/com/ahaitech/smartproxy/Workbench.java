@@ -1,4 +1,4 @@
-package com.ahaitech.icreader;
+package com.ahaitech.smartproxy;
 
 public class Workbench {
 

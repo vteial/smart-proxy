@@ -1,4 +1,4 @@
-package com.ahaitech.icreader;
+package com.ahaitech.smartproxy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.ahaitech.icreader.web.controllers;
+package com.ahaitech.smartproxy.web.controllers;
 
 import org.springframework.core.env.Environment;
 

@@ -1,4 +1,4 @@
-package com.ahaitech.icreader.dto;
+package com.ahaitech.smartproxy.dto;
 
 import lombok.Data;
 
